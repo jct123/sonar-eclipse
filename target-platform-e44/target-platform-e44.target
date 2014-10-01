@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?>
-<target name="sonar-eclipse-e43" sequenceNumber="32">
+<target name="sonar-eclipse-e44" sequenceNumber="32">
 <locations>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="false" type="InstallableUnit">
 <unit id="org.eclipse.platform.ide" version="0.0.0"/>
 <unit id="org.eclipse.jdt.feature.group" version="0.0.0"/>
 <unit id="org.eclipse.cdt.feature.group" version="0.0.0"/>
 <unit id="org.eclipse.m2e.feature.feature.group" version="0.0.0"/>
-<repository location="http://download.eclipse.org/eclipse/updates/4.4milestones "/>
+<repository location="http://download.eclipse.org/releases/luna/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="false" type="InstallableUnit">
 <unit id="org.python.pydev.feature.feature.group" version="2.8.2.2013090511"/>
